@@ -1,0 +1,6 @@
+Please refer to the below Microsoft/Databricks documentations for more detailed information:
+- Referred document: https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-stream-from-eventhubs  **Documentation is using old version of connecter. So I made the changes in my code according to the latest connector version**
+- Creating Event hub: https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-create
+- Creating twitter developer account for twitter API credentials: https://developer.twitter.com/en/apps
+- Mounting ADLS gen2 in your Azure Databricks workspace: https://docs.databricks.com/data/data-sources/azure/azure-datalake-gen2.html
+
